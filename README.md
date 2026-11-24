@@ -1,6 +1,6 @@
 # QA funcional | Agendamiento de clases
 
-**Caso de estudio anonimizado · Enero de 2026 · Angela Maria Soplin Costa**
+**Caso de estudio (Confidencial) · Enero de 2026 · Angela Maria Soplin Costa**
 
 ¿Cómo comprobar que una persona puede reservar una clase en una fecha válida y con un tutor disponible? En este proyecto diseñé y ejecuté pruebas manuales sobre el flujo de agendamiento de una plataforma educativa. Registré resultados, hallazgos funcionales y observaciones sobre la experiencia de usuario.
 
